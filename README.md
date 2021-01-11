@@ -1,2 +1,2 @@
 # codewars
-codewar repository challenges 
+codewar solution repository for documented challenges script solutions. 
